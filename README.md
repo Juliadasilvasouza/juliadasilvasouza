@@ -1,4 +1,4 @@
-### boas vindas ao meu perfil 😉
+### Boas vindas ao meu perfil 😉
 - Meu nome é Júlia Da Silva Souza
 
 - Estou estudando com a plataforma Alura
